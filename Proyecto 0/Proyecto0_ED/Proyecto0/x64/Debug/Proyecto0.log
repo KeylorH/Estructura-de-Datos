@@ -1,0 +1,9 @@
+﻿  Proyecto0.cpp
+C:\Users\carme\Documents\Visual Studio 2022\Codigos\Proyecto0_ED\Ventanilla.h(67,30): warning C4244: 'argumento': conversión de 'time_t' a 'E'; posible pérdida de datos
+C:\Users\carme\Documents\Visual Studio 2022\Codigos\Proyecto0_ED\Ventanilla.h(67,30): warning C4244:         with
+C:\Users\carme\Documents\Visual Studio 2022\Codigos\Proyecto0_ED\Ventanilla.h(67,30): warning C4244:         [
+C:\Users\carme\Documents\Visual Studio 2022\Codigos\Proyecto0_ED\Ventanilla.h(67,30): warning C4244:             E=int
+C:\Users\carme\Documents\Visual Studio 2022\Codigos\Proyecto0_ED\Ventanilla.h(67,30): warning C4244:         ]
+  (compilando archivo de origen "Proyecto0.cpp")
+  
+  Proyecto0.vcxproj -> C:\Users\carme\Documents\Visual Studio 2022\Codigos\Proyecto0_ED\x64\Debug\Proyecto0.exe
